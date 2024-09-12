@@ -1,4 +1,4 @@
-# Movie Recommender AI Bot
+# Movie Recommender AI Bot & Agent
 AI Bot that Suggests Similar Movies Based on Mentioned Films
 
 AI bot agents were programmed in Python for this project.
